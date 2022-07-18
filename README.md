@@ -1,6 +1,6 @@
 # movie_analysis
 
-Analyzing the tmdb dataset for various primary and critical features.
+Analyzing the TMDb dataset for various primary and critical features.
 
 #### Requirements
 * Install the [Anaconda](https://www.anaconda.com/products/distribution) distribution of Python. It already has required packages, namely, NumPy, panadas, matplotlib included. 
